@@ -61,7 +61,7 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/aniket-maheshwari-337114122/" alr="LinkedIn">
     <img src="https://img.shields.io/badge/-LinkedIn-gold?logo=LinkedIn&logoColor=black" /></a>
 
-  <a href="aniketm2598@gmail.com" alr="Medium">
+  <a href="mailto:aniketm2598@gmail.com" alr="Medium">
     <img src="https://img.shields.io/badge/-gmail-gold?logo=gmail&logoColor=black" /></a>
   
 <p align='left'>
