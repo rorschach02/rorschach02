@@ -1,6 +1,5 @@
-### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F77222&size=29&multiline=true&width=700&lines=This+is+Aniket's+GitHub+Profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F77222&size=29&multiline=true&width=700&lines=Welcome+to+my+GitHub+Profile)](https://git.io/typing-svg)
 
 <!--
 **rorschach02/rorschach02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<h1 align="center">Hi 👋, I'm Aniket</h1>
+
+<h3 align="center">A passionate data scientist and AI enthusiast.</h3>
+
+<p align="center"><img src="images/hello_there.gif"></p>
+
