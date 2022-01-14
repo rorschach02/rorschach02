@@ -58,9 +58,45 @@ Here are some ideas to get you started:
 ## Experience
 - 👨‍💻 **Web Developer Intern**\
 📆 2019 - 2020\
-📍 **Silverwing Technologies* - Ahmedabad, India
-  
-[linkedin]: https://www.linkedin.com/in/aniket-maheshwari-337114122/
+📍 **Silverwing Technologies** - Ahmedabad, India
+ </details>
+ 
+ <h4> Languages and Frameworks I know and study</h4>
+
+<p align="center">
+    <a alt="python">
+        <img src="https://img.shields.io/badge/-python-blue?logo=python&logoColor=white" /></a>
+    <a alt="C">
+       <img src="https://img.shields.io/badge/-blue?logo=c&logoColor=white" /></a>
+    <a alt="R">
+       <img src="https://img.shields.io/badge/-R-blue?logo=R&logoColor=white" /></a>
+    <a alt="Git">
+       <img src="https://img.shields.io/badge/-Git-blue?logo=Git&logoColor=white" /></a>
+    <a alt="CSS3">
+      <img src="https://img.shields.io/badge/-CSS-blue?logo=CSS3&logoColor=white" /></a>
+    <a alt="HTML5">
+      <img src="https://img.shields.io/badge/-HTML-blue?logo=HTML5&logoColor=white" /></a>
+    <a alt="JavaScript">
+      <img src="https://img.shields.io/badge/-JavaScript-blue?logo=JavaScript&logoColor=white" /></a>
+    <a alt="Bootstrap">
+      <img src="https://img.shields.io/badge/-Bootstrap-blue?logo=Bootstrap&logoColor=white" /></a>
+    <a alt="SQLite">
+      <img src="https://img.shields.io/badge/-SQLite-blue?logo=SQLite&logoColor=white" /></a>
+    <a alt="pandas">
+      <img src="https://img.shields.io/badge/-pandas-blue?logo=pandas&logoColor=white" /></a>
+    <a alt="NumPy">
+      <img src="https://img.shields.io/badge/-NumPy-blue?logo=NumPy&logoColor=white" /></a>
+    <a alt="Matplotlib">
+      <img src="https://img.shields.io/badge/-Matplotlib-blue?logo=Matplotlib&logoColor=white" /></a>
+    <a alt="Keras">
+      <img src="https://img.shields.io/badge/-Keras-blue?logo=Keras&logoColor=white" /></a>
+    <a alt="Tensorflow">
+      <img src="https://img.shields.io/badge/-tensorflow-blue?logo=tensorflow&logoColor=white" /></a>
+    <a alt="WordPress">
+      <img src="https://img.shields.io/badge/-WordPress-blue?logo=WordPress&logoColor=white" /></a>
+</p>
+
+
 
 
 
