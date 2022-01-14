@@ -35,11 +35,6 @@ Here are some ideas to get you started:
 - ✅ SQL
 - ✅ Tableau
 
-
-<h3 align="left">Connect with me:</h3>
-
-</p>
-
 <details>
   <summary>📃 My Resume</summary>
 
@@ -60,6 +55,20 @@ Here are some ideas to get you started:
 📆 2019 - 2020\
 📍 **Silverwing Technologies** - Ahmedabad, India
  </details>
+
+<h3 align="left">Connect with me:</h3>
+<p align='center'>
+  <a href="https://www.linkedin.com/in/aniket-maheshwari-337114122/" alr="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-gold?logo=LinkedIn&logoColor=black" /></a>
+
+  <a href="aniketm2598@gmail.com" alr="Medium">
+    <img src="https://img.shields.io/badge/-gmail-gold?logo=gmail&logoColor=black" /></a>
+  
+<p align='left'>
+
+</p>
+
+
  
  <h4> Languages and Frameworks I know and study</h4>
 
