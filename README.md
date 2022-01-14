@@ -51,9 +51,16 @@ Here are some ideas to get you started:
 
 
 - 📖 **Bachelor's in Computer Applications**\
-📆 2017 - 2020
+📆 2017 - 2020\
 📍 **St. Xavier's College** - Ahmedabad, India
 
+
+## Experience
+- 👨‍💻 **Web Developer Intern**\
+📆 2019 - 2020\
+📍 **Silverwing Technologies* - Ahmedabad, India
+  
+[linkedin]: https://www.linkedin.com/in/aniket-maheshwari-337114122/
 
 
 
