@@ -23,3 +23,38 @@ Here are some ideas to get you started:
 
 <p align="center"><img src="images/hello_there.gif"></p>
 
+- `whoami` A Master student at University at Buffalo 
+- `uptime` 23 years
+- `pwd` Buffalo, New York
+- `ps -a` Currently learning ML and DL concepts as well as Computer Vision Techniques.
+
+### Language and Tools:
+- ✅ Python (Numpy, Pandas, Sklearn, Keras, etc.)
+- ✅ NLP (Word2Vec, TF-IDF, BERT, GloVe, GPT, etc.)
+- ✅ R
+- ✅ SQL
+- ✅ Tableau
+
+
+<h3 align="left">Connect with me:</h3>
+
+</p>
+
+<details>
+  <summary>📃 My Resume</summary>
+
+## Education
+
+- 📖 **Master in Profession Studies - Data Science and Analytics**\
+📆 2021 - 2023\
+📍 **University at Buffalo** - New York, United States
+
+
+- 📖 **Bachelor's in Computer Applications**\
+📆 2017 - 2020
+📍 **St. Xavier's College** - Ahmedabad, India
+
+
+
+
+
